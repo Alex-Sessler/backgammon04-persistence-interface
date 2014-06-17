@@ -1,8 +1,9 @@
 package backgammon04.model;
 
-import java.awt.Color;
 import java.util.Date;
 import java.util.Set;
+
+import backgammon04.util.Color;
 
 public interface Game {
 
