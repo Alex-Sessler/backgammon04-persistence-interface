@@ -1,6 +1,6 @@
-package de.htwg.backgammon04.model.dao;
+package backgammon04.model.dao;
 
-import de.htwg.backgammon04.model.User;
+import backgammon04.model.User;
 
 public interface UserDao {
 	public void save(User user);

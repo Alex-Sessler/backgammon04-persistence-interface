@@ -1,6 +1,6 @@
-package de.htwg.backgammon04.model;
+package backgammon04.model;
 
-import de.htwg.backgammon04.util.Color;
+import backgammon04.util.Color;
 
 public interface Player {
 

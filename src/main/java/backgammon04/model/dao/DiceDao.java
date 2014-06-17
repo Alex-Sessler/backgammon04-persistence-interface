@@ -1,6 +1,6 @@
-package de.htwg.backgammon04.model.dao;
+package backgammon04.model.dao;
 
-import de.htwg.backgammon04.model.Dice;
+import backgammon04.model.Dice;
 
 public interface DiceDao {
 	public void save(Dice dice);

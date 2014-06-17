@@ -1,6 +1,6 @@
-package de.htwg.backgammon04.model.dao;
+package backgammon04.model.dao;
 
-import de.htwg.backgammon04.model.Board;
+import backgammon04.model.Board;
 
 public interface BoardDao {
 

@@ -1,4 +1,4 @@
-package de.htwg.backgammon04.model;
+package backgammon04.model;
 
 /**
  * Wird benötigt um die einzelnen Vorgänge in den Moves zu speichern. Nicht

@@ -1,4 +1,4 @@
-package de.htwg.backgammon04.model;
+package backgammon04.model;
 
 public interface User {
 

@@ -1,9 +1,9 @@
-package de.htwg.backgammon04.model.dao;
+package backgammon04.model.dao;
 
 import java.util.List;
 
-import de.htwg.backgammon04.model.Game;
-import de.htwg.backgammon04.model.User;
+import backgammon04.model.Game;
+import backgammon04.model.User;
 
 public interface GameDao {
 

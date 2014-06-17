@@ -1,4 +1,4 @@
-package de.htwg.backgammon04.util;
+package backgammon04.util;
 
 public enum Color {
 
