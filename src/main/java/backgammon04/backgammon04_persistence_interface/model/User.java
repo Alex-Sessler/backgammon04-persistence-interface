@@ -1,4 +1,4 @@
-package backgammon04.model;
+package backgammon04.backgammon04_persistence_interface.model;
 
 public interface User {
 

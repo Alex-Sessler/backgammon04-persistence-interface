@@ -1,6 +1,6 @@
-package backgammon04.model.dao;
+package backgammon04.backgammon04_persistence_interface.model.dao;
 
-import backgammon04.model.Checker;
+import backgammon04.backgammon04_persistence_interface.model.Checker;
 
 public interface CheckerDao {
 

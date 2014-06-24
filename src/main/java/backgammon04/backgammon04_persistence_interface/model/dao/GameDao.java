@@ -1,9 +1,9 @@
-package backgammon04.model.dao;
+package backgammon04.backgammon04_persistence_interface.model.dao;
 
 import java.util.List;
 
-import backgammon04.model.Game;
-import backgammon04.model.User;
+import backgammon04.backgammon04_persistence_interface.model.Game;
+import backgammon04.backgammon04_persistence_interface.model.User;
 
 public interface GameDao {
 

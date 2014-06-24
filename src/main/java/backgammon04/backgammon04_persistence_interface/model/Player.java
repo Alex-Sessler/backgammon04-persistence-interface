@@ -1,6 +1,6 @@
-package backgammon04.model;
+package backgammon04.backgammon04_persistence_interface.model;
 
-import backgammon04.util.Color;
+import backgammon04.backgammon04_persistence_interface.util.Color;
 
 public interface Player {
 

@@ -1,6 +1,6 @@
-package backgammon04.model.dao;
+package backgammon04.backgammon04_persistence_interface.model.dao;
 
-import backgammon04.model.User;
+import backgammon04.backgammon04_persistence_interface.model.User;
 
 public interface UserDao {
 	public void save(User user);
